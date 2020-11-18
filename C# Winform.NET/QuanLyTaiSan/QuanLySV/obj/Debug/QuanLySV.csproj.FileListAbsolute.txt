@@ -1,0 +1,115 @@
+C:\Users\Admin\Desktop\QLSV\C# ADO.net\QuanLySV\QuanLySV\bin\Debug\QuanLySV.exe.config
+C:\Users\Admin\Desktop\QLSV\C# ADO.net\QuanLySV\QuanLySV\bin\Debug\QuanLySV.exe
+C:\Users\Admin\Desktop\QLSV\C# ADO.net\QuanLySV\QuanLySV\bin\Debug\QuanLySV.pdb
+C:\Users\Admin\Desktop\QLSV\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\QLSV\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.DangNhap.resources
+C:\Users\Admin\Desktop\QLSV\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.Properties.Resources.resources
+C:\Users\Admin\Desktop\QLSV\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\QLSV\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\QLSV\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.exe
+C:\Users\Admin\Desktop\QLSV\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.pdb
+C:\Users\Admin\Desktop\QLSV\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.MenuLoading.resources
+C:\Users\Admin\Desktop\QLSV\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.MenuADMIN.resources
+C:\Users\Admin\Desktop\QLSV\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.DoiMatKhau.resources
+C:\Users\Admin\Desktop\QLSV\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.FormDangPhatTrien.resources
+C:\Users\Admin\Desktop\QLSV\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.BacDaoTao.resources
+C:\Users\Admin\Desktop\QLSV\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.Khoa.resources
+C:\Users\Admin\Desktop\QLSV\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.ChuyenNganh.resources
+C:\Users\Admin\Desktop\QLSV\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.GiangVien.resources
+C:\Users\Admin\Desktop\QLSV\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.Lop.resources
+C:\Users\Admin\Desktop\QLSV\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.MonHoc.resources
+C:\Users\Admin\Desktop\QLSV\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.DangKiMonHoc.resources
+C:\Users\Admin\Desktop\QLSV\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.DanhSachSV.resources
+C:\Users\Admin\Desktop\QLSV\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.sv.resources
+C:\Users\Admin\Desktop\QLSV\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.MenuSinhVien.resources
+C:\Users\Admin\Desktop\QLSV\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.SuaThongTinSV.resources
+C:\Users\Admin\Desktop\QLSV\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.SuaThongTinGD.resources
+C:\Users\PC\Documents\Công nghệ Phần Mềm\Software-management-student\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.csprojAssemblyReference.cache
+C:\Users\PC\Documents\Công nghệ Phần Mềm\Software-management-student\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.BacDaoTao.resources
+C:\Users\PC\Documents\Công nghệ Phần Mềm\Software-management-student\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.ChuyenNganh.resources
+C:\Users\PC\Documents\Công nghệ Phần Mềm\Software-management-student\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.DangKiMonHoc.resources
+C:\Users\PC\Documents\Công nghệ Phần Mềm\Software-management-student\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.DangNhap.resources
+C:\Users\PC\Documents\Công nghệ Phần Mềm\Software-management-student\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.DanhSachSV.resources
+C:\Users\PC\Documents\Công nghệ Phần Mềm\Software-management-student\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.DoiMatKhau.resources
+C:\Users\PC\Documents\Công nghệ Phần Mềm\Software-management-student\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.sv.resources
+C:\Users\PC\Documents\Công nghệ Phần Mềm\Software-management-student\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.FormDangPhatTrien.resources
+C:\Users\PC\Documents\Công nghệ Phần Mềm\Software-management-student\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.GiangVien.resources
+C:\Users\PC\Documents\Công nghệ Phần Mềm\Software-management-student\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.Khoa.resources
+C:\Users\PC\Documents\Công nghệ Phần Mềm\Software-management-student\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.MenuLoading.resources
+C:\Users\PC\Documents\Công nghệ Phần Mềm\Software-management-student\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.Lop.resources
+C:\Users\PC\Documents\Công nghệ Phần Mềm\Software-management-student\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.MenuADMIN.resources
+C:\Users\PC\Documents\Công nghệ Phần Mềm\Software-management-student\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.MenuSinhVien.resources
+C:\Users\PC\Documents\Công nghệ Phần Mềm\Software-management-student\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.MonHoc.resources
+C:\Users\PC\Documents\Công nghệ Phần Mềm\Software-management-student\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.Properties.Resources.resources
+C:\Users\PC\Documents\Công nghệ Phần Mềm\Software-management-student\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.SuaThongTinGD.resources
+C:\Users\PC\Documents\Công nghệ Phần Mềm\Software-management-student\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.SuaThongTinSV.resources
+C:\Users\PC\Documents\Công nghệ Phần Mềm\Software-management-student\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.csproj.GenerateResource.cache
+C:\Users\PC\Documents\Công nghệ Phần Mềm\Software-management-student\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Công nghệ Phần Mềm\Software-management-student\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.exe
+C:\Users\PC\Documents\Công nghệ Phần Mềm\Software-management-student\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.pdb
+C:\Users\PC\Documents\Công nghệ Phần Mềm\Software-management-student\C# ADO.net\QuanLySV\QuanLySV\bin\Debug\QuanLySV.exe.config
+C:\Users\PC\Documents\Công nghệ Phần Mềm\Software-management-student\C# ADO.net\QuanLySV\QuanLySV\bin\Debug\QuanLySV.exe
+C:\Users\PC\Documents\Công nghệ Phần Mềm\Software-management-student\C# ADO.net\QuanLySV\QuanLySV\bin\Debug\QuanLySV.pdb
+C:\Users\PC\Documents\Công nghệ Phần Mềm\Software-management-student\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.ChiTietSinhVien.resources
+C:\Users\PC\Documents\Công nghệ Phần Mềm\Software-management-student\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.ThongKeDiemTichLuy.resources
+C:\Users\PC\Documents\Công nghệ Phần Mềm\Software-management-student\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.ThongKeDiemRenLuyen.resources
+C:\Users\PC\Documents\Công nghệ Phần Mềm\Software-management-student-khiem2\C# ADO.net\QuanLySV\QuanLySV\bin\Debug\QuanLySV.exe.config
+C:\Users\PC\Documents\Công nghệ Phần Mềm\Software-management-student-khiem2\C# ADO.net\QuanLySV\QuanLySV\bin\Debug\QuanLySV.exe
+C:\Users\PC\Documents\Công nghệ Phần Mềm\Software-management-student-khiem2\C# ADO.net\QuanLySV\QuanLySV\bin\Debug\QuanLySV.pdb
+C:\Users\PC\Documents\Công nghệ Phần Mềm\Software-management-student-khiem2\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.csprojAssemblyReference.cache
+C:\Users\PC\Documents\Công nghệ Phần Mềm\Software-management-student-khiem2\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.BacDaoTao.resources
+C:\Users\PC\Documents\Công nghệ Phần Mềm\Software-management-student-khiem2\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.ChiTietSinhVien.resources
+C:\Users\PC\Documents\Công nghệ Phần Mềm\Software-management-student-khiem2\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.ChuyenNganh.resources
+C:\Users\PC\Documents\Công nghệ Phần Mềm\Software-management-student-khiem2\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.DangKiMonHoc.resources
+C:\Users\PC\Documents\Công nghệ Phần Mềm\Software-management-student-khiem2\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.DangNhap.resources
+C:\Users\PC\Documents\Công nghệ Phần Mềm\Software-management-student-khiem2\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.DanhSachSV.resources
+C:\Users\PC\Documents\Công nghệ Phần Mềm\Software-management-student-khiem2\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.DoiMatKhau.resources
+C:\Users\PC\Documents\Công nghệ Phần Mềm\Software-management-student-khiem2\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.sv.resources
+C:\Users\PC\Documents\Công nghệ Phần Mềm\Software-management-student-khiem2\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.FormDangPhatTrien.resources
+C:\Users\PC\Documents\Công nghệ Phần Mềm\Software-management-student-khiem2\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.GiangVien.resources
+C:\Users\PC\Documents\Công nghệ Phần Mềm\Software-management-student-khiem2\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.Khoa.resources
+C:\Users\PC\Documents\Công nghệ Phần Mềm\Software-management-student-khiem2\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.MenuLoading.resources
+C:\Users\PC\Documents\Công nghệ Phần Mềm\Software-management-student-khiem2\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.Lop.resources
+C:\Users\PC\Documents\Công nghệ Phần Mềm\Software-management-student-khiem2\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.MenuADMIN.resources
+C:\Users\PC\Documents\Công nghệ Phần Mềm\Software-management-student-khiem2\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.MenuSinhVien.resources
+C:\Users\PC\Documents\Công nghệ Phần Mềm\Software-management-student-khiem2\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.MonHoc.resources
+C:\Users\PC\Documents\Công nghệ Phần Mềm\Software-management-student-khiem2\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.Properties.Resources.resources
+C:\Users\PC\Documents\Công nghệ Phần Mềm\Software-management-student-khiem2\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.SuaThongTinGD.resources
+C:\Users\PC\Documents\Công nghệ Phần Mềm\Software-management-student-khiem2\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.SuaThongTinSV.resources
+C:\Users\PC\Documents\Công nghệ Phần Mềm\Software-management-student-khiem2\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.ThongKeDiemRenLuyen.resources
+C:\Users\PC\Documents\Công nghệ Phần Mềm\Software-management-student-khiem2\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.ThongKeDiemTichLuy.resources
+C:\Users\PC\Documents\Công nghệ Phần Mềm\Software-management-student-khiem2\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.csproj.GenerateResource.cache
+C:\Users\PC\Documents\Công nghệ Phần Mềm\Software-management-student-khiem2\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Công nghệ Phần Mềm\Software-management-student-khiem2\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.exe
+C:\Users\PC\Documents\Công nghệ Phần Mềm\Software-management-student-khiem2\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.pdb
+C:\Users\PC\Documents\Công nghệ Phần Mềm\Software-management-student-khiem2\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.Form1.resources
+C:\Users\Admin\Desktop\CNPM\Software-management-student-khiem2\Software-management-student-khiem2\C# ADO.net\QuanLySV\QuanLySV\bin\Debug\QuanLySV.exe.config
+C:\Users\Admin\Desktop\CNPM\Software-management-student-khiem2\Software-management-student-khiem2\C# ADO.net\QuanLySV\QuanLySV\bin\Debug\QuanLySV.exe
+C:\Users\Admin\Desktop\CNPM\Software-management-student-khiem2\Software-management-student-khiem2\C# ADO.net\QuanLySV\QuanLySV\bin\Debug\QuanLySV.pdb
+C:\Users\Admin\Desktop\CNPM\Software-management-student-khiem2\Software-management-student-khiem2\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\CNPM\Software-management-student-khiem2\Software-management-student-khiem2\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.BacDaoTao.resources
+C:\Users\Admin\Desktop\CNPM\Software-management-student-khiem2\Software-management-student-khiem2\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.ChiTietSinhVien.resources
+C:\Users\Admin\Desktop\CNPM\Software-management-student-khiem2\Software-management-student-khiem2\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.ChuyenNganh.resources
+C:\Users\Admin\Desktop\CNPM\Software-management-student-khiem2\Software-management-student-khiem2\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.DangKiMonHoc.resources
+C:\Users\Admin\Desktop\CNPM\Software-management-student-khiem2\Software-management-student-khiem2\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.DangNhap.resources
+C:\Users\Admin\Desktop\CNPM\Software-management-student-khiem2\Software-management-student-khiem2\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.DanhSachSV.resources
+C:\Users\Admin\Desktop\CNPM\Software-management-student-khiem2\Software-management-student-khiem2\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.DoiMatKhau.resources
+C:\Users\Admin\Desktop\CNPM\Software-management-student-khiem2\Software-management-student-khiem2\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.sv.resources
+C:\Users\Admin\Desktop\CNPM\Software-management-student-khiem2\Software-management-student-khiem2\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.FormDangPhatTrien.resources
+C:\Users\Admin\Desktop\CNPM\Software-management-student-khiem2\Software-management-student-khiem2\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.GiangVien.resources
+C:\Users\Admin\Desktop\CNPM\Software-management-student-khiem2\Software-management-student-khiem2\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.Khoa.resources
+C:\Users\Admin\Desktop\CNPM\Software-management-student-khiem2\Software-management-student-khiem2\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.MenuLoading.resources
+C:\Users\Admin\Desktop\CNPM\Software-management-student-khiem2\Software-management-student-khiem2\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.Lop.resources
+C:\Users\Admin\Desktop\CNPM\Software-management-student-khiem2\Software-management-student-khiem2\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.MenuADMIN.resources
+C:\Users\Admin\Desktop\CNPM\Software-management-student-khiem2\Software-management-student-khiem2\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.MenuSinhVien.resources
+C:\Users\Admin\Desktop\CNPM\Software-management-student-khiem2\Software-management-student-khiem2\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.MonHoc.resources
+C:\Users\Admin\Desktop\CNPM\Software-management-student-khiem2\Software-management-student-khiem2\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.Properties.Resources.resources
+C:\Users\Admin\Desktop\CNPM\Software-management-student-khiem2\Software-management-student-khiem2\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.SuaThongTinGD.resources
+C:\Users\Admin\Desktop\CNPM\Software-management-student-khiem2\Software-management-student-khiem2\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.SuaThongTinSV.resources
+C:\Users\Admin\Desktop\CNPM\Software-management-student-khiem2\Software-management-student-khiem2\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.ThongKeDiemRenLuyen.resources
+C:\Users\Admin\Desktop\CNPM\Software-management-student-khiem2\Software-management-student-khiem2\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.ThongKeDiemTichLuy.resources
+C:\Users\Admin\Desktop\CNPM\Software-management-student-khiem2\Software-management-student-khiem2\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\CNPM\Software-management-student-khiem2\Software-management-student-khiem2\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CNPM\Software-management-student-khiem2\Software-management-student-khiem2\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.exe
+C:\Users\Admin\Desktop\CNPM\Software-management-student-khiem2\Software-management-student-khiem2\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.pdb
+C:\Users\Admin\Desktop\CNPM\Software-management-student-khiem2\Software-management-student-khiem2\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.DangKiTaiKhoan.resources

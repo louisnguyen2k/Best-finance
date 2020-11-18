@@ -1,0 +1,7 @@
+USE QUANLYTAISAN
+GO
+
+
+ALTER TABLE LoaiGiaoDich
+   ADD img VARCHAR(80)
+GO
